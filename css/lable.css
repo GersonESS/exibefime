@@ -1,0 +1,18 @@
+label{  
+    font-family: 'Fira Code', monospace;
+    font-family: 'Press Start 2P', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    position: absolute;
+    width: 654.75px;
+    height: 64.63px;
+    left: 320px;
+    top: 132.4px;
+    text-align: center;
+    color: #219653; 
+    /*border: 4px solid #333333;*/
+    text-shadow: 2px 2px 0px rgba(190, 200, 40, 0.25);
+    transform: rotate(4.75deg);
+    line-height: 56px;      
+}
